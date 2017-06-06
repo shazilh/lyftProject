@@ -1,0 +1,12 @@
+
+.estiloContainer{
+    width:100%;
+    height: 600px;
+    background-image:url(../assets/img/lyftBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.estiloContainer2{
+    width:100%;
+    height: 600px;
+}
