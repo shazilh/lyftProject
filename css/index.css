@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+html{
+    width: 100%;
+    height: 100%;
+    background-image:url(../assets/img/lyftBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    
+}
+.contenedorLogo{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+.logoWhite{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+}
+
+
